@@ -1,0 +1,26 @@
+.botaoVoltar {
+  margin-top: 2rem;
+  color: #fff;
+  background-color: #5c636a;
+}
+
+h1 {
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #000;
+}
+
+strong {
+  color: #000;
+}
+
+.senhaEBotao {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 3rem;
+}

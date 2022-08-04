@@ -1,0 +1,31 @@
+.body {
+  margin-bottom: 200px;
+  margin: -8px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 99.9vh;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(84, 25, 25);
+}
+
+.containerPrincipal {
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: white;
+}
+
+.navBar {
+  background-color: #fff;
+  margin-bottom: 5rem;
+}
+
+.botaoMinhaConta {
+  margin-top: 2rem;
+  color: #fff;
+  background-color: #5c636a;
+}

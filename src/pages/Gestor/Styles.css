@@ -1,0 +1,53 @@
+.botoes {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.d-grid {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.botaoAprovarSolicitacoes {
+  width: 55rem;
+  height: 5rem;
+  background-color: #5c636a;
+  font-size: 25px;
+}
+
+.botaoAcesHisSolicitacao {
+  width: 55rem;
+  height: 5rem;
+  background-color: #5c636a;
+  font-size: 25px;
+}
+.botaoSolicitarReembolso {
+  width: 55rem;
+  height: 5rem;
+  background-color: #5c636a;
+  font-size: 25px;
+}
+.botaoGerenciarCadastro {
+  width: 55rem;
+  height: 5rem;
+  background-color: #5c636a;
+  font-size: 25px;
+}
+
+.container-botaoVoltar {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+}
+
+.botaoVoltar {
+  justify-content: center;
+  align-items: center;
+  align-self: center;
+  margin-left: 4rem;
+  margin-top: 5rem;
+  border-radius: 10px;
+  background-color: #5c636a;
+}
