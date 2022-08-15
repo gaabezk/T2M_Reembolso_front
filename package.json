@@ -1,6 +1,7 @@
 {
   "name": "2022-1-t2m-reembolso-front",
   "private": true,
+  "homepage":"github-page/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite --port 3021",
